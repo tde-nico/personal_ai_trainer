@@ -1,6 +1,9 @@
 # personal_ai_trainer
 
 <!--
+#field
+AI
+
 #groups
 Computer_Vision
 
